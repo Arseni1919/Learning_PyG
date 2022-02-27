@@ -1,4 +1,4 @@
-# Learning PyTorch Geometric
+# Learning PyTorch Geometric and GNN
 
 ## Credits
 
