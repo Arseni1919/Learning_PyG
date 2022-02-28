@@ -9,3 +9,5 @@
 - [tds | article GNN - 2](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-62acf5b143d0)
 - [arxiv | paper](https://arxiv.org/pdf/1903.02428.pdf)
 - [DGL](https://docs.dgl.ai/tutorials/blitz/1_introduction.html#sphx-glr-tutorials-blitz-1-introduction-py)
+- [networkx](https://networkx.org/documentation/latest/index.html)
+- [book | code](https://github.com/PacktPublishing/Graph-Machine-Learning)
